@@ -1,7 +1,7 @@
 # certificacao-jar
 Repositório para exercícios da sessão de jars da certificação.
 
-# Os comandos devem ser executados na raiz do projeto certificacao-jar
+# Comandos devem ser executados na raiz do projeto certificacao-jar
 
 javac -d bin/ src/*.java
 
